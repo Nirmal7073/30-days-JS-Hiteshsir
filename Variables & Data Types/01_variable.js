@@ -27,11 +27,11 @@ const myDetails = {
 };
 const arr = ['hitesh sir' , 'code with chai' , 'javaScript'];
 
-console.log(`value is ${numbType} and Data type is ${typeof numbType}`);
-console.log(`value is ${strType} and Data type is ${typeof strType}` );
-console.log(`value is ${scoreMain} and Data type is ${typeof scoreMain}` );
-console.log(`value is ${myDetails} and Data type is ${typeof myDetails}` );
-console.log(`value is ${arr} and Data type is ${typeof arr}` );
+console.log(`value is ${numbType} and Data Type is ${typeof numbType}`);
+console.log(`value is ${strType} and Data Type is ${typeof strType}` );
+console.log(`value is ${scoreMain} and Data Type is ${typeof scoreMain}` );
+console.log(`value is ${myDetails} and Data Type is ${typeof myDetails}` );
+console.log(`value is ${arr} and Data Type is ${typeof arr}` );
 
 // Activity 4: Reassigning Variables
 // Task 5: Declare a variable using let, assign it an initial value, reassign a new value, and log both values to the console.
