@@ -98,7 +98,7 @@ for (let i = 1; i <= 5; i++) {
 
 console.log(pattern);
 
-// print number from 1 to 10 but skip number 5 usning continue statements
+// print number from 1 to 10 but skip number 5 using continue statements
 
 for (let i = 1; i <= 10; i++) {
     if(i == 5){
@@ -107,6 +107,7 @@ for (let i = 1; i <= 10; i++) {
     console.log(i);
 }
 
+// print number from 1 to 10 but stop the loop when number is 7.
 for (let i = 1; i <= 10; i++) {
     if(i == 7){
         break;
